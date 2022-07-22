@@ -39,7 +39,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ''
-global.author = '© 2022 Zxyuu - Xzyuu'
+global.author = '© 2022 By Romli Ngabb!!'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
