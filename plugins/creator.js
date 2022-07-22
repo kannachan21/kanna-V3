@@ -4,7 +4,7 @@ const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:Sy;Bot;;;
 FN: Romli Ngabb!!
-item.ORG: ytta!
+item.ORG: Aowkwkwkwkwk Ngabb!!
 item1.TEL;waid=6281322667077:6281215710461@s.whatsapp.net
 item1.X-ABLabel:Sibuk 
 item2.EMAIL;type=INTERNET:Eitss
