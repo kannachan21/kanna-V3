@@ -4,18 +4,18 @@ global.mods = []
 global.prems = ['6281215710461', '6281322667077'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ZxyuuRomm'
-global.nameowner2 = 'XzyuuNaii'
-global.numberowner = '6281322667077'
-global.numberowner2 = '6281215710461'
-global.instagram = 'https://instagram.com/Naiichnz'
-global.github = 'https://github.com/romlisuhanda'
-global.dana = '081322667077'
-global.pulsa = '081215710461'
+global.nameowner = 'Putra Kull'
+global.nameowner2 = 'Wawa Kull'
+global.numberowner = '6283840600765'
+global.numberowner2 = '6288274076151'
+global.instagram = 'https://instagram.com/xxzwaway'
+global.github = 'https://github.com/putranich23'
+global.dana = '083856051043'
+global.pulsa = '083840600765'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Z X Y U U B O T Z - MD'
+global.namebot = 'P U T R A B O T Z - MD'
 global.gc = 'https://chat.whatsapp.com/K9vsKm2jDga8ATZEcfpEGA'
 global.web = 'https://zxyuuromm2.romlisuhanda040.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,9 +25,9 @@ global.fotonya1 = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Z X Y U U B O T Z - Md'
+global.wm = 'P U T R A B O T Z - Md'
 global.watermark = wm
-global.wm2 = '                               「 Xzyuu Naii⁩ 」'
+global.wm2 = '                               「 Xzyuu wawa 」'
 global.wm3 = '⫹⫺ Zxyuu Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -39,7 +39,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ''
-global.author = '© 2022 By Romli Ngabb!!'
+global.author = '© 2022 By Putra Ngabb!!'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
