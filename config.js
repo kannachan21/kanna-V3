@@ -1,14 +1,14 @@
 //=============『 Utama 』================== //
-global.owner = ['6283840600765', '6288274076151'] 
+global.owner = ['6283840600765', ''] 
 global.mods = [] 
-global.prems = ['6288274076151', '6283840600765'] 
+global.prems = ['', '6283840600765'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Putra Kull'
-global.nameowner2 = 'Wawa Kull'
+global.nameowner = 'Putra nich'
+global.nameowner2 = ''
 global.numberowner = '6283840600765'
-global.numberowner2 = '6288274076151'
-global.instagram = 'https://instagram.com/xxzwaway'
+global.numberowner2 = ''
+global.instagram = 'https://instagram.com/putranich23'
 global.github = 'https://github.com/putranich23'
 global.dana = '083856051043'
 global.pulsa = '083840600765'
@@ -16,7 +16,7 @@ global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'P U T R A B O T Z - MD'
-global.gc = 'https://chat.whatsapp.com/K9vsKm2jDga8ATZEcfpEGA'
+global.gc = 'https://chat.whatsapp.com/FxsKuHNlP3e1YHvXRhiKjy'
 global.web = 'https://zxyuuromm2.romlisuhanda040.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -27,7 +27,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'P U T R A B O T Z - Md'
 global.watermark = wm
-global.wm2 = '                               「 Xzyuu wawa 」'
+global.wm2 = '                               「 Xzyuu Putzz 」'
 global.wm3 = '⫹⫺ Zxyuu Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
