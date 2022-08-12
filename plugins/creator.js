@@ -5,7 +5,7 @@ VERSION:3.0
 N:Sy;Bot;;;
 FN: Putra Nich!!
 item.ORG: Aowkwkwkwkwk Ngabb!!
-item1.TEL;waid=6283840600765:6288274076151@s.whatsapp.net
+item1.TEL;waid=6283840600765:@s.whatsapp.net
 item1.X-ABLabel:Sibuk 
 item2.EMAIL;type=INTERNET:Eitss
 item2.X-ABLabel:Email
